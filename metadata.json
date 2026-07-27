@@ -1,0 +1,6 @@
+{
+  "name": "Three Brothers",
+  "description": "Premium e-commerce platform for Three Brothers online store (Owned by Mrs. Farhana Nadeem).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
